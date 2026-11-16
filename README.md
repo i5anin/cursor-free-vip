@@ -1,5 +1,7 @@
 # ➤ Cursor Free VIP
 
+**ЦКП:** Изучение стороннего инструмента изменения настроек и идентификаторов Cursor; самостоятельный продукт не подтверждён.
+
 <div align="center">
 <p align="center">
   <img src="./images/logo.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
